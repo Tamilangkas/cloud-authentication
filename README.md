@@ -1,4 +1,4 @@
-# cloud-authentication
+# Cloud-Authentication
 
 Installation steps:
 ===================
